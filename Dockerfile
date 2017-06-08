@@ -1,4 +1,4 @@
-FROM owasp/zap2docker-weekly:latest
+FROM owasp/zap2docker-stable:latest
 MAINTAINER Phil Stephenson "philip.stephenson1@nhs.net"
 EXPOSE 8080
 ENTRYPOINT ["zap.sh"] 
