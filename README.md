@@ -1,8 +1,10 @@
-This is a fork of [NHSBSA/owasp-zap](https://github.com/nhsbsa/owasp-zap), all I have doneis change the parent image, from owasp/zap2docker-weekly to owasp/zap2docker-stable.
+# This is a fork of [NHSBSA/owasp-zap](https://github.com/nhsbsa/owasp-zap)
+
+All I have done is change the parent image, from owasp/zap2docker-weekly to owasp/zap2docker-stable.
 
 Here is the original README :
 
-# NHSBSA Docker Build Files: owasp-zap
+## NHSBSA Docker Build Files: owasp-zap
 
 This docker file is basically a wrapper of `owasp/zap2docker-weekly`.  For more information about the upstream images, see this wiki entry:
 
