@@ -1,4 +1,4 @@
-This is a fork of [NHSBSA/owasp-zap](https://github.com/nhsbsa/owasp-zap), all I have doneis change the parent image, from wasp/zap2docker-weekly to wasp/zap2docker-stable.
+This is a fork of [NHSBSA/owasp-zap](https://github.com/nhsbsa/owasp-zap), all I have doneis change the parent image, from owasp/zap2docker-weekly to owasp/zap2docker-stable.
 
 Here is the original README :
 
